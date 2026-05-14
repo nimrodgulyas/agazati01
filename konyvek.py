@@ -36,8 +36,9 @@ keres = str(input("3.4 feladat: Írjon be egy szerzőnevet: "))
 van = False
 for konyvek in konyv:
     if konyvek.nev == keres:
-        print(f"{keres} könyvei: \n {konyvek.cim}")
         van = True
+print(f"{keres} könyvei: \n {konyvek.cim}")
+        
 
 if van == False:
     print("Nem található a szerző!")
