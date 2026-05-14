@@ -25,25 +25,28 @@ fajl.close
 
 print(f"3.2 feladat: Az állományban {len(konyv)} db könyv adatai szerepelnek.")
 
-legtobb = 0
-legtobb_oldalu_konyv = None
+legtobb = konyv[0]
 for konyvek in konyv:
     if konyvek.oldalszam > legtobb:
         legtobb = konyvek.oldalszam
-        legtobb_oldalu_konyv = konyvek.cim
-print(f"A legtöbb oldalas könyv: {legtobb_oldalu_konyv}")
+        print(f"3.3. feladat: A legtöbb oldalas könyv: \n Szerző: {legtobb.nev}\n\t Cím: {legtobb.cim}\n\t Kiadás éve: {legtobb.ev}")
+
 
 keres = str(input("3.4 feladat: Írjon be egy szerzőnevet: "))
 van = False
-konyvei = []
-neve = []
 for konyvek in konyv:
     if konyvek.nev == keres:
-        konyvei.append(konyvek.cim)
-        neve.append(konyvek.nev)
+        print(f"{keres} könyvei: \n {konyvek.cim}")
         van = True
-if van == True:
-    print(f"{neve} könyvei: \n {konyvei}")
 
 if van == False:
     print("Nem található a szerző!")
+    
+    
+osszes = 0
+darab = 0
+for konyvek in konyv:
+    if konyvek.ekonyv == 0:
+        osszes += konyvek.oldalszam
+        darab += 1
+print(f"A nyomtatott kötetek átlagos oldalszáma: {round(osszes / darab, 2)} lap.")

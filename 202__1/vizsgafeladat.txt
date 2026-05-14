@@ -80,7 +80,10 @@ nem szerepel a beírt szerző az adatok között,
 akkor a „Nem található a szerző!” szöveget írja 
 ki a képernyőre!
 
-5. Állapítsa meg és írja ki a képernyőre a minta szerint, hogy átlagosan hány oldalasak a nyomtatott kötetek (ahol az e-könyv jelző 0)! Az eredmény két tizedes pontossággal jelenjen meg!
+5. Állapítsa meg és írja ki a képernyőre a 
+minta szerint, hogy átlagosan hány oldalasak 
+a nyomtatott kötetek (ahol az e-könyv jelző 0)!
+Az eredmény két tizedes pontossággal jelenjen meg!
 
 Minta:
 3.2. feladat: Az állományban 35 db könyv adatai szerepelnek.
@@ -93,4 +96,5 @@ Minta:
 Móra Ferenc könyvei:
 	Kincskereső kisködmön
 	A tengerszem földje
-3.5. feladat: A nyomtatott kötetek átlagos oldalszáma 234.71 lap.
+3.5. feladat: A nyomtatott kötetek átlagos 
+oldalszáma 234.71 lap.
