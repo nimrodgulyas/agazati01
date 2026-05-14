@@ -1,0 +1,35 @@
+Móra Ferenc;Kincskereső kisködmön;1918;120;0
+Jókai Mór;Az arany ember;1873;412;0
+Móra Ferenc;A tengerszem földje;1926;256;0
+Kosztolányi Dezső;Édes Anna;1926;198;0
+Babits Mihály;Halálfiai;1927;224;0
+Jókai Mór;A kőszívű ember bárányai;1869;368;0
+Mikszáth Kálmán;Szent Péter esernyője;1895;189;0
+Krúdy Gyula;Az élet álom;1912;312;0
+Ady Endre;Új versek;1906;142;0
+Petőfi Sándor;János vitéz;1845;96;0
+Arany János;Toldi;1847;88;0
+Kosztolányi Dezső;Nero, a véres költő;1921;176;0
+Mikszáth Kálmán;A jó palócok;1882;205;0
+Jókai Mór;A nagyenyedi két fűzfa;1854;278;0
+Móricz Zsigmond;Légy jó mindhalálig;1920;268;0
+Móricz Zsigmond;Rokonok;1930;312;0
+Babits Mihály;Húsvét előtt;1925;156;0
+Illyés Gyula;Puszták népe;1936;244;0
+Wass Albert;Adjátok vissza a hegyeimet;1989;198;1
+Fekete István;Tüskevár;1957;284;0
+Rejtő Jenő;Az elveszett cirkáló;1933;192;0
+Karinthy Frigyes;Tanár úr kérem;1916;128;0
+Örkény István;Egyperces novellák;1968;312;0
+Márai Sándor;A gyertyák csonkig égnek;1942;288;0
+Kertész Imre;Sorstalanság;1975;262;0
+Esterházy Péter;Harmonia caelestis;1989;398;0
+Nádas Péter;Emlékiratok könyve;1986;300;0
+Krasznahorkai László;Sátántangó;1985;380;0
+Magyar népmese;A kiskakas gyémánt félkrajcárja;1900;24;0
+Jókai Mór;Egy az Isten;1867;336;0
+Móra Ferenc;Muzsika;1927;168;0
+Babits Mihály;Elza pilóta vagy a tökéletes társadalom;1933;198;0
+Kosztolányi Dezső;Pacsirta;1924;152;0
+Mikszáth Kálmán;Beszterce ostroma;1896;224;0
+Petőfi Sándor;Összes költeményei;1847;290;0
