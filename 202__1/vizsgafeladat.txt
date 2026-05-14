@@ -22,19 +22,32 @@ Ez az összes könyv 23.50%-a.
 
 
 3. feladat: Könyvtári katalógus (18 pont)
-Ebben a feladatban egy kis könyvtár katalógusában szereplő könyvekkel kell dolgoznia!
+Ebben a feladatban egy kis könyvtár katalógusában 
+szereplő könyvekkel kell dolgoznia!
 
-• A képernyőre írást igénylő részfeladatok eredményének megjelenítése előtt írja a képernyőre a feladat sorszámát (például: 3.2. feladat:)!
+• A képernyőre írást igénylő részfeladatok 
+eredményének megjelenítése előtt írja a képernyőre 
+a feladat sorszámát 
+ű(például: 3.2. feladat:)!
 
-• Az egyes feladatokban a kiírásokat a minta szerint készítse el!
+• Az egyes feladatokban a kiírásokat a minta 
+szerint készítse el!
 
 • Az ékezetmentes kiírások is elfogadottak.
 
-• A program megírásakor az állományban lévő, valamint a felhasználó által megadott adatok helyes szerkezetét nem kell ellenőriznie, feltételezheti, hogy a rendelkezésre álló adatok a leírtaknak megfelelnek.
+• A program megírásakor az állományban lévő, 
+valamint a felhasználó által megadott adatok 
+helyes szerkezetét 
+nem kell ellenőriznie, feltételezheti, hogy a 
+rendelkezésre álló adatok a leírtaknak megfelelnek.
 
-• Megoldását úgy készítse el, hogy az azonos szerkezetű, de tetszőleges bemeneti adatok mellett is helyes eredményt adjon!
+• Megoldását úgy készítse el, hogy az azonos szerkezetű, de tetszőleges bemeneti adatok mellett is helyes 
+eredményt adjon!
 
-A konyvek.txt, UTF-8 kódolású állomány könyvek adatait tartalmazza, legfeljebb 200 sora van. Az adatokat pontosvessző választja el egymástól:
+A konyvek.txt, UTF-8 kódolású állomány könyvek 
+adatait tartalmazza, legfeljebb 200 sora van. Az 
+adatokat 
+pontosvessző választja el egymástól:
 
 Móra Ferenc;Kincskereső kisködmön;1918;120;0
 Jókai Mór;Az arany ember;1873;412;0
@@ -44,15 +57,28 @@ A fájl egy sorában a következő adatok találhatók:
 • A könyv címe (szöveg)
 • A kiadás éve (egész szám)
 • Az oldalszám (egész szám)
-• E-könyv-e (egész szám): amennyiben az utolsó adat 1, az azt jelenti, hogy e-könyv, amennyiben 0, akkor nyomtatott (fizikai) kötet
+• E-könyv-e (egész szám): amennyiben az utolsó 
+adat 1, az azt jelenti, hogy e-könyv, amennyiben 
+0, akkor nyomtatott (fizikai) kötet
 
-1. Készítsen programot a következő feladatok megoldására, melynek kódját konyvek.py néven mentse el. Olvassa be a UTF-8 kódolású konyvek.txt állományban lévő adatokat és tárolja el egy saját osztály (konyv) típusú listában!
+1. Készítsen programot a következő feladatok 
+megoldására, melynek kódját konyvek.py néven 
+mentse el. Olvassa be a UTF-8 kódolású konyvek.txt 
+állományban lévő adatokat és tárolja el egy saját 
+osztály (konyv) típusú listában!
 
-2. Hány könyv adatai szerepelnek az állományban? A választ a minta szerinti formában írassa ki!
+2. Hány könyv adatai szerepelnek az állományban? 
+A választ a minta szerinti formában írassa ki!
 
-3. Írja ki a legtöbb oldalas könyv adatait a minta szerint!
+3. Írja ki a legtöbb oldalas könyv adatait a minta 
+szerint!
 
-4. Kérjen be a felhasználótól egy szerzőnevet! Ezt követően írja ki az adott szerző könyveinek címét a képernyőre a minta szerint! Amennyiben nem szerepel a beírt szerző az adatok között, akkor a „Nem található a szerző!” szöveget írja ki a képernyőre!
+4. Kérjen be a felhasználótól egy szerzőnevet! 
+Ezt követően írja ki az adott szerző könyveinek 
+címét a képernyőre a minta szerint! Amennyiben 
+nem szerepel a beírt szerző az adatok között, 
+akkor a „Nem található a szerző!” szöveget írja 
+ki a képernyőre!
 
 5. Állapítsa meg és írja ki a képernyőre a minta szerint, hogy átlagosan hány oldalasak a nyomtatott kötetek (ahol az e-könyv jelző 0)! Az eredmény két tizedes pontossággal jelenjen meg!
 
