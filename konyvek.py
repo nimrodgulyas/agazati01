@@ -37,7 +37,7 @@ van = False
 for konyvek in konyv:
     if konyvek.nev == keres:
         van = True
-print(f"{keres} könyvei: \n {konyvek.cim}")
+        print(f"{keres} könyvei: \n {konyvek.cim}")
         
 
 if van == False:
