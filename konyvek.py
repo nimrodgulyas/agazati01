@@ -28,7 +28,7 @@ print(f"3.2 feladat: Az állományban {len(konyv)} db könyv adatai szerepelnek.
 legtobb = konyv[0]
 for konyvek in konyv:
     if konyvek.oldalszam > legtobb.oldalszam:
-        legtobb = konyvek.oldalszam
+        legtobb = konyvek
         print(f"3.3. feladat: A legtöbb oldalas könyv: \n Szerző: {legtobb.nev}\n\t Cím: {legtobb.cim}\n\t Kiadás éve: {legtobb.ev}")
 
 
