@@ -33,11 +33,12 @@ for konyvek in konyv:
 
 
 keres = str(input("3.4 feladat: Írjon be egy szerzőnevet: "))
+print(keres)
 van = False
 for konyvek in konyv:
     if konyvek.nev == keres:
         van = True
-        print(f"{keres} könyvei: \n {konyvek.cim}")
+        print(f"könyvei: \n {konyvek.cim}")
         
 
 if van == False:
